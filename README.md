@@ -37,8 +37,8 @@ This project was developed with the following technologies:
 - [React](https://reactjs.org)
 - [React Native](https://facebook.github.io/react-native/)
 - [Expo](https://expo.io/)
-- [VITE](https://vitejs.dev/)
-- [TailwindCSS](https://tailwindcss.com/)
+- [Vite](https://vitejs.dev/)
+- [Tailwind CSS](https://tailwindcss.com/)
 - [Phosphor Icons](https://phosphoricons.com/)
 
 ---
