@@ -9,7 +9,6 @@ export const styles = StyleSheet.create({
     padding: 20,
     marginRight: 16,
     alignItems: 'center',
-
   },
   button: {
     width: '100%',
