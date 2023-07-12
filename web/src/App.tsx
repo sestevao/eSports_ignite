@@ -6,7 +6,7 @@ import { CreateAdModal } from './components/CreateAdModal';
 import { GameBanner } from "./components/GameBanner";
 
 import './styles/main.css';
-import logoImg from './assets/logo-nlw-esports.svg';
+import logoImg from '/assets/logo-nlw-esports.svg';
 import axios from 'axios';
 
 interface Game {
